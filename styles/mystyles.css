@@ -1,0 +1,41 @@
+.footer {
+    color: black;
+    font-family: sans-serif, monospace;
+    font-size: 22px;
+}
+
+.footer2 {
+    color: black;
+    font-size: medium;
+    font-family: sans-serif,serif, cursive;
+}
+
+.links {
+    color: blue;
+    text-decoration: underline;
+    font-size: medium; 
+}
+
+.subheading {
+    color: whitesmoke;
+}
+
+.links2 {
+    color: hotpink;
+    font-size: 18px;
+}
+
+.links3 {
+    color: black;
+    text-decoration: underline;
+    font-size: 16px;
+}
+
+.img {
+    font-family: sans-serif,serif, cursive;
+    font-size: 22px;
+}
+
+.justify {
+    text-align: justify;
+}
